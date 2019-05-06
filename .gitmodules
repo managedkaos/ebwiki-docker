@@ -1,0 +1,3 @@
+[submodule "EBWiki"]
+	path = EBWiki
+	url = git@github.com:EBWiki/EBWiki.git
